@@ -1,0 +1,9 @@
+# NAME: YouTubeMusic
+# DOMAIN: 1
+# USER-AGENT: 4
+# TOTAL: 5
+DOMAIN,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
