@@ -1,3 +1,7 @@
+#!name=Google Search Rewrite
+#!desc=重写Google搜索
+#!category=Google
+
 [URL Rewrite]
 ^https?://(www.)?g.cn https://www.google.com 302
 ^https?://(www.)?google.cn https://www.google.com 302
